@@ -10,7 +10,7 @@ function App() {
         <h1>BONACHON</h1> */}
 
         {/* Code from template bootstrap */}
-        <h1>BONACHON</h1>
+        <h1>Que Rollo BONACHON</h1>
       </header>
 
 
