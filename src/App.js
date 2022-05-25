@@ -5,11 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        {/* <img src={logo} className="App-logo" alt="logo" />
 
-        <h1>BONACHON</h1> */}
-
-        {/* Code from template bootstrap */}
         <h1>Que Rollo BONACHON</h1>
       </header>
 
